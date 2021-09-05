@@ -4,6 +4,7 @@ DIRENV required, .envrc should be in the root of the directory.
 / required at the end of each endpoint.
 
 Enpoints with requirements:
+
 /api-auth/login/ (POST)
   Username
   Email
