@@ -1,7 +1,6 @@
 # django_rest_api
 
-## DIRENV required, .envrc should be in the root of the directory.
-## / required at the end of each endpoint.
+## DIRENV required, .envrc should be in the root of the directory. / required at the end of each endpoint.
 
 ### Enpoints with requirements:
 
